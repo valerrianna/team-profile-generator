@@ -1,8 +1,8 @@
-const Employee = require('../lib/Employee.js');
+// const Employee = require('../lib/Employee.js');
 
-test('creates a health potion object', () => {
-    const potion = new Potion('health');
+// test('creates a health potion object', () => {
+//     const potion = new Potion('health');
   
-    expect(potion.name).toBe('health');
-    expect(potion.value).toEqual(expect.any(Number));
-  });
+//     expect(potion.name).toBe('health');
+//     expect(potion.value).toEqual(expect.any(Number));
+//   });
